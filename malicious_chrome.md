@@ -1,4 +1,4 @@
-### Details
+### Details:
 
 Below payload can be used on a website which is vulnerable to reflective file download.
 
